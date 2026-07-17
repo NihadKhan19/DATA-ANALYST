@@ -197,7 +197,7 @@ def chat():
 @app.route("/resume.pdf")
 def resume():
     # Drop your real resume file at static/files/resume.pdf
-    return send_from_directory("static/files", "resume.pdf")
+    return send_from_directory("static/files", "CV.pdf")
 
 
 if __name__ == "__main__":
