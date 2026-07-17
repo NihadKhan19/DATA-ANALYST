@@ -345,7 +345,12 @@ section:last-of-type{ border-bottom:none; }
 .contact__links a{ font-family:var(--mono); font-size:0.82rem; color:var(--ink-soft); border-bottom:1px solid transparent; padding-bottom:2px; transition:color 0.2s ease, border-color 0.2s ease; }
 .contact__links a:hover{ color:var(--ink); border-color:var(--ink); }
 
-footer{ padding:28px 40px; display:flex; justify-content:space-between; font-family:var(--mono); font-size:0.68rem; color:var(--ink-soft); flex-wrap:wrap; gap:8px; max-width:1180px; margin:0 auto; }
+footer{ padding:28px 40px; 
+       display:flex; 
+       justify-content:center; 
+       font-family:var(--mono); font-size:0.68rem; 
+       color:var(--ink-soft); 
+      }
 
 /* ============================================================
    AI ASSISTANT WIDGET
