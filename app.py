@@ -23,9 +23,9 @@ PROFILE = {
     "role": "Data Analyst Intern",
     "location": "India",
     "tagline": "I turn raw data into clear insights using SQL, Python and dashboards. Based in India.",
-    "email": "hello@nihad.dev",
+    "email": "nihadk.2026@gmailcom",
     "github": "#",
-    "linkedin": "#",
+    "linkedin": "https://www.linkedin.com/in/nihad-khan/",
 }
 
 ABOUT = {
