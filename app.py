@@ -19,7 +19,7 @@ app = Flask(__name__)
 # ============================================================
 
 PROFILE = {
-    "name": "Nihad",
+    "name": "Nihad Khan",
     "role": "Data Analyst Intern",
     "location": "India",
     "tagline": "I turn raw data into clear insights using SQL, Python and dashboards. Based in India.",
