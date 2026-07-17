@@ -24,7 +24,7 @@ PROFILE = {
     "location": "India",
     "tagline": "I turn raw data into clear insights using SQL, Python and dashboards. Based in India.",
     "email": "nihadk.2026@gmailcom",
-    "github": "#",
+    "github": "http://github.com/NihadKhan19",
     "linkedin": "https://www.linkedin.com/in/nihad-khan/",
 }
 
